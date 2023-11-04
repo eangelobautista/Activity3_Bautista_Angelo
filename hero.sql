@@ -1,4 +1,4 @@
---1.	Create new branch named "feat/create-tables"
+
 
 CREATE TABLE IF NOT EXISTS public.class
 (
